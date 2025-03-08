@@ -5,7 +5,8 @@
       "price": "2000 $",
       "image": "images/iphone_normal.png",
       "image_rotated": "images/iphone_rotaded.png",
-      "details": "This is the detailed description of the iPhone 16 Pro."
+      "details": "This is the detailed description of the iPhone 16 Pro.",
+      "3d_model":"models/iphone16.glb"
     },
     {
       "id": 2,
@@ -13,7 +14,8 @@
       "price": "300 TL",
       "image": "images/mouse_normal.png",
       "image_rotated": "images/mouse_rotaded.png",
-      "details": "This is the detailed description of the Mouse X200."
+      "details": "This is the detailed description of the Mouse X200.",
+      "3d_model":"models/mouse.glb"
     },
     {
       "id": 3,
@@ -21,15 +23,8 @@
       "price": "500 TL",
       "image": "images/keyboard_normal.png",
       "image_rotated": "images/keyboard_rotaded.png",
-      "details": "This is the detailed description of the Keyboard Pro Max."
-    },
-    {
-      "id": 4,
-      "name": "Headphones Ultra",
-      "price": "750 TL",
-      "image": "images/headphones_normal.png",
-      "image_rotated": "images/headphones_rotaded.png",
-      "details": "This is the detailed description of the Headphones Ultra."
+      "details": "This is the detailed description of the Keyboard Pro Max.",
+      "3d_model":"models/iphone16.glb"
     },
     {
       "id": 5,
@@ -37,7 +32,8 @@
       "price": "3000 $",
       "image": "images/vision_normal.png",
       "image_rotated": "images/vision_rotaded.png",
-      "details": "This is the detailed description of the Vision VR Headset."
+      "details": "This is the detailed description of the Vision VR Headset.",
+      "3d_model":"models/iphone16.glb"
     },
     {
       "id": 6,
@@ -45,7 +41,8 @@
       "price": "2500 $",
       "image": "images/camera_normal.png",
       "image_rotated": "images/camera_rotaded.png",
-      "details": "This is the detailed description of the Camera Pro 4K."
+      "details": "This is the detailed description of the Camera Pro 4K.",
+      "3d_model":"models/camera.glb"
     },
     {
       "id": 7,
@@ -53,7 +50,8 @@
       "price": "12000 $",
       "image": "images/computer_normal.png",
       "image_rotated": "images/computer_rotaded.png",
-      "details": "This is the detailed description of the Computer Gaming X."
+      "details": "This is the detailed description of the Computer Gaming X.",
+      "3d_model":"models/computer.glb"
     }
   ]
   
